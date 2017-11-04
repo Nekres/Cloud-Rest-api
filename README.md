@@ -1,3 +1,6 @@
+#How to deploy
+you need docker and maven installed, nothing else.
+sh Build.sh 
 # Cloud-Rest-api
 GET API CALLS<p>
 <p>storage/mkdir - create new folder. Example
